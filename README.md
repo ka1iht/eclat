@@ -1,2 +1,2 @@
 # Eclat
-Code for Eclat in R and Python
+Code for Eclat in R
